@@ -1,0 +1,80 @@
+item code: 1, item name: Test 1, item price: 10.00
+item code: 2, item name: Test 2, item price: 20.00
+item code: 1, item name: Test 1, item price: 10.00
+item code: 2, item name: Test 2, item price: 20.00
+
+
+DML: Insert
+Code: 3
+Name: Test 3
+Price: 30.00
+
+
+DML: Insert
+Code: 4
+Name: Test 4
+Price: 340.00
+
+
+DML: Insert
+Code: 5
+Name: Test 5
+Price: 350.00
+
+
+DML: Insert
+Code: 6
+Name: Test 6
+Price: 360.00
+
+
+DML: Update
+Code: 2
+Name: Test 22
+Price: 20.00
+
+
+DML: Delete
+Code: 4
+Name: Test 4
+Price: 340.00
+item code: 1, item name: Test 1, item price: 10.00
+item code: 2, item name: Test 22, item price: 20.00
+item code: 3, item name: Test 3, item price: 30.00
+item code: 5, item name: Test 5, item price: 350.00
+item code: 6, item name: Test 6, item price: 360.00
+Initialzie connection string
+Initialzie _sqlTableDependency
+_sqlTableDependency started
+Initialzie priceTicker
+item code: 1, item name: Test 1, item price: 10.00
+item code: 2, item name: Test 22, item price: 20.00
+item code: 3, item name: Test 3, item price: 30.00
+item code: 5, item name: Test 5, item price: 350.00
+item code: 6, item name: Test 6, item price: 360.00
+
+
+DML: Delete
+Code: 5
+Name: Test 5
+Price: 350.00
+Initialzie connection string
+Initialzie _sqlTableDependency
+_sqlTableDependency started
+Initialzie priceTicker
+item code: 1, item name: Test 1, item price: 10.00
+item code: 2, item name: Test 22, item price: 20.00
+item code: 3, item name: Test 3, item price: 30.00
+item code: 6, item name: Test 6, item price: 360.00
+
+
+DML: Insert
+Code: 4
+Name: Test 4
+Price: 340.00
+
+
+DML: Insert
+Code: 5
+Name: Test 5
+Price: 350.00

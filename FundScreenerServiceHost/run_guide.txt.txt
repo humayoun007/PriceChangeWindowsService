@@ -1,0 +1,5 @@
+cd c:\Windows\Microsoft.NET\Framework\v4.0.30319
+
+ InstallUtil.exe C:\Users\humayoun\Downloads\FundScreenerServiceHost\FundScreenerServiceHost\bin\Debug\FundScreenerServiceHost.exe
+
+InstallUtil.exe -u C:\Users\humayoun\Downloads\FundScreenerServiceHost\FundScreenerServiceHost\bin\Debug\FundScreenerServiceHost.exe

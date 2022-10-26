@@ -1,0 +1,2 @@
+System.Collections.Generic.List`1[FundScreenerServiceHost.Models.Stock]
+System.Collections.Generic.List`1[FundScreenerServiceHost.Models.Stock]
